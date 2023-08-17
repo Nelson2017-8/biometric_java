@@ -1,0 +1,8 @@
+jun 02, 2023 5:48:58 PM Helper.ErrorHandler log
+INFORMACIÓN: 
+ File UI.HabilitarLector.sendGet(HabilitarLector.java:64)
+d = 1685742536
+jun 02, 2023 5:48:58 PM Helper.ErrorHandler log
+INFORMACIÓN: 
+ File UI.HabilitarLector.sendGet(HabilitarLector.java:73)
+http://localhost/biometrics/model/HabilitarSensor.php?timestamp=1685742536&token=RVQLmg1685391416675&_=1685742538541
